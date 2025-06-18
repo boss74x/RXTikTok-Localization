@@ -102,12 +102,12 @@
 "Enable Fake Changes" = "Ativar alterações falsas";
 "Extended Bio" = "Bio estendida";
 "Extended Comments" = "Comentários expandidos";
-"Upload HD" = "Upload em HD";
+"Upload HD" = "Carregar em HD";
 "App Lock" = "Bloqueio do app";
 "Enable Flex" = "Ativar Flex";
-"Enable Oled Keyboard" = "Teclado OLED";
+"Enable Oled Keyboard" = "Ativar Teclado OLED";
 "Post Stats" = "Estatísticas do post";
-"Enable Text To Reposts" = "Texto em reposts";
+"Enable Text To Reposts" = "Ativar Texto em reposts";
 "Disable Survey Popups" = "Desativar pop-ups de pesquisa";
 
 // MARK: - Comment Settings
@@ -138,18 +138,18 @@
 "Changes will take effect after restarting the app" = "Alterações terão efeito após reiniciar o app";
 
 // MARK: - Live Button Settings
-"Live Button Settings" = "Configurações do botão Live";
-"Live Button Function" = "Função do botão Live";
-"Live Button Actions" = "Ações do botão Live";
+"Live Button Settings" = "Configurações do botão ao vivo";
+"Live Button Function" = "Função do botão ao vivo";
+"Live Button Actions" = "Ações do botão ao vivo";
 "Live Actions" = "Ações ao vivo";
 "Playback Speed" = "Velocidade de reprodução";
 "Select Action" = "Selecionar ação";
-"Change the behavior of the Live button" = "Alterar comportamento do botão Live";
+"Change the behavior of the Live button" = "Alterar comportamento do botão ao vivo";
 "Selected Action" = "Ação selecionada";
-"Live Button Function Disabled" = "Função Live desativada";
-"Please enable Live Button Function first" = "Ative primeiro a função Live";
-"Change Action of Live Button" = "Alterar ação do botão Live";
-"Enable Live Button Function" = "Ativar função Live";
+"Live Button Function Disabled" = "Função ao vivo desativada";
+"Please enable Live Button Function first" = "Ative primeiro a função ao vivo";
+"Change Action of Live Button" = "Alterar ação do botão ao vivo";
+"Enable Live Button Function" = "Ativar função ao vivo";
 
 // MARK: - Chat Settings
 "Chat Settings" = "Configurações de chat";
@@ -200,7 +200,7 @@
 "FEATURE_DISABLE_SENSITIVE" = "Ocultar conteúdo sensível";
 "FEATURE_ADD_TRANSLATION" = "Adicionar tradução em comentários";
 "FEATURE_DISABLE_WARNINGS" = "Ocultar avisos do TikTok";
-"FEATURE_DISABLE_LIVE" = "Ocultar lives no feed";
+"FEATURE_DISABLE_LIVE" = "Ocultar ao vivo no feed";
 "FEATURE_SKIP_RECOMMENDED" = "Remover recomendações";
 "FEATURE_UPLOAD_REGION" = "Exibir bandeira de upload";
 "FEATURE_HIDE_TOP_ITEMS" = "Ocultar itens principais";
@@ -327,7 +327,73 @@
 "FEATURE_ANONYMOUS_SEEN_DESC" = "Ver chats sem marcar como lido";
 "FEATURE_SHOW_ALL_TABS_DESC" = "Mostrar todas abas ocultas, incluindo beta";
 "FEATURE_PROFILE_SAVE_DESC" = "Salvar perfil com um toque";
-"FEATURE_PROFILE_COPY_DESC" = "Copiar detalhes públicos do perfil";
+"FEATURE_PROFILE_COPY_DESC" = "Copiar detalhes do perfil";
 "FEATURE_APP_LOCK_DESC" = "Bloquear app com senha ou biometria";
 "FEATURE_REGIONS_DESC" = "Alterar região para conteúdo específico";
 "FEATURE_ADD_FOLDERS_DESC" = "Organizar mensagens em pastas";
+
+// MARK: - Credits View
+"Credits" = "Créditos";
+"Special Thanks to" = "Agradecimentos Especiais a";
+"Community" = "Comunidade";
+"Main Developer, Owner" = "Desenvolvedor Principal, Proprietário";
+"Co-Owner" = "Co-proprietário";
+"DRM Developer" = "Desenvolvedor de DRM";
+"Contributor" = "Colaborador";
+"UI Designer" = "Designer de Interface";
+"Telegram Channel" = "Canal no Telegram";
+"Telegram Discussion Group" = "Grupo de Discussão no Telegram";
+"Get the latest updates and news" = "Receba as últimas atualizações e notícias";
+"Join the community discussion" = "Participe da discussão da comunidade";
+"Buy Me a Coffee" = "Me Pague um Café";
+"Support the development" = "Apoie o desenvolvimento";
+"X" = "X";
+"Support" = "Suporte";
+
+// MARK: - Configuration
+"About" = "Sobre";
+"Configuration" = "Configuração";
+"Import Configuration" = "Importar Configuração";
+"Export Configuration" = "Exportar Configuração";
+"Reset All Settings" = "Redefinir Todas as Configurações";
+"Import settings from a file" = "Importar configurações de um arquivo";
+"Export settings to a file" = "Exportar configurações para um arquivo";
+"Reset all settings to default values" = "Redefinir todas as configurações para o padrão";
+"All settings have been reset to default values." = "Todas as configurações foram redefinidas para o padrão.";
+"Configuration imported successfully." = "Configuração importada com sucesso.";
+"File selection was cancelled." = "Seleção de arquivo cancelada.";
+"Cancelled" = "Cancelado";
+
+"Select App Language" = "Selecionar Idioma do App";
+
+// 1.3
+"Erase All TikTok Data" = "Apagar Todos os Dados do TikTok";
+"Erase all TikTok data from the app  [Becareful!!!]" = "Apagar todos os dados do TikTok do app  [Cuidado!!!]";
+"Clear Keychain" = "Limpar Chaves (Keychain)";
+"Are you sure you want to clear all data? This will remove:\n1- TikTok's data directory\n2-all keychains\n3- clears all NSUserDefaults\n \nNOTICE!\n YOU WILL LOSE YOUR DRAFTS AND ANYTHING SAVED LOCALLY." = "Tem certeza de que deseja limpar todos os dados? Isso removerá:\n1- Diretório de dados do TikTok\n2- Todas as chaves (Keychains)\n3- Todas as NSUserDefaults\n\nATENÇÃO!\n VOCÊ PERDERÁ SEUS RASCUNHOS E QUALQUER COISA SALVA LOCALMENTE.";
+"Clear" = "Limpar";
+"Really Clear All Data?" = "Deseja Mesmo Apagar Todos os Dados?";
+"This is your final warning. This action is irreversible and will delete all local TikTok data, including drafts and settings. Are you absolutely sure?" = "Este é seu aviso final. Esta ação é irreversível e apagará todos os dados locais do TikTok, incluindo rascunhos e configurações. Você tem certeza absoluta?";
+"Confirm Clear" = "Confirmar Limpeza";
+"Data Cleared" = "Dados Apagados";
+"All TikTok data has been cleared." = "Todos os dados do TikTok foram apagados.";
+
+"Streak Info" = "Informações de sequência de atividade (dias seguidos) do foguinho.";
+"FEATURE_STREAK_INFO" = "Mostrar informações de sequência ao tocar no foguinho";
+
+"Hide Tab Bar Labels" = "Ocultar Rótulos da Barra de Abas";
+"FEATURE_HIDE_TAB_BAR_LABELS" = "Ocultar rótulos na barra de abas para um visual mais limpo";
+
+"Adjust offline download limit" = "Ajustar Limite de Downloads Offline";
+"Adjust value between 50 and 2000" = "Escolha um valor entre 50 e 2000";
+
+"Start TikTok in Following" = "Iniciar TikTok em Seguindo";
+"FEATURE_START_FYP_IN_FOLLOWING" = "Iniciar o TikTok no feed Seguindo em vez de Para Você";
+
+"Waiting for TikTok…" = "Aguardando o TikTok…";
+"Extracting Media URL…" = "Extraindo URL da Mídia…";
+"Invalid download URL received." = "URL de download inválida recebida.";
+"Failed to fetch HD video URL. Please try again." = "Falha ao obter a URL do vídeo em HD. Tente novamente.";
+
+"Enable Egypt Stickers" = "Ativar Figurinhas do Egito";
+
